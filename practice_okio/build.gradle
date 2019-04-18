@@ -1,0 +1,8 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation 'com.squareup.okio:okio:1.17.3'
+}
+
+sourceCompatibility = "8"
+targetCompatibility = "8"
